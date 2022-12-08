@@ -1,0 +1,144 @@
+.topHed {
+    padding-top: 90px;
+    padding-right: 200px;
+    font-size: 50px;
+}
+
+.gutu{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.topSec{
+    background-color: #ecf0f377;
+}
+
+.secTopImg{
+    width: 400px;
+    height: auto;
+}
+
+#fourDiv{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.topImg{
+    width: 50px;
+    height: auto;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.imgFour {
+    width: 70px;
+    height: auto;
+}
+
+.sec2{
+    color: blue;
+    font-size: 40px;
+}
+
+p{
+    font-size: 15px;
+    color: #000;
+}
+
+.sec2p{
+    font-size: 18px;
+    color: #000;
+}
+
+.chagol {
+    font-size: 22px;
+    color: blue;
+    font-weight: 600;
+}
+
+.imgThree{
+    width: 100%;
+    height: auto;
+}
+
+.secThree{
+    background-color: #ecf0f377; 
+}
+
+#imgThree1{
+    border-top-left-radius: 5px;
+}
+
+#imgThree3{
+    border-top-right-radius: 5px;
+}
+
+#imgThree4{
+    border-bottom-left-radius: 5px;
+}
+
+#imgThree6{
+    border-bottom-right-radius: 5px;
+}
+
+.headPhones{
+    width: 30px;
+    height: auto;
+}
+
+h3 {
+    display: inline-block;
+    font-size: 24px;
+    padding-left: 8px;
+}
+
+.boltu{
+    background-image: url('businessman.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.kk{
+    font-weight: 600;
+}
+
+#exampleInputEmail1{
+    background-color: rgba(0, 0, 0, 0.568);
+    color: #fff;
+    outline: none;
+    border: none;
+}
+
+#msg{
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.568);
+    color: #fff;
+}
+
+.box{
+    padding-top: 210px;
+}
+
+.mutu{
+    background-color: #ecf0f377; 
+}
+
+.bill{
+    width: 150px;
+    height: auto;
+}
+
+footer{
+    background-color: #ecf0f377; 
+}
+
+i::before{
+    font-size: 18px;
+}
+
+.monu{
+    display: inline-block;
+}
